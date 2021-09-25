@@ -7,6 +7,8 @@ time: 60
 reading: 0
 ---
 
+adsfasdfasdf asdfadsf 
+
 *Purpose*: Git and GitHub are extremely useful for collaboration, but they take
 some getting used to. In this *partner exercise*, you will learn how to
 contribute to a partner's work, and how to merge contributions to your own work.
